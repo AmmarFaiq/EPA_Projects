@@ -1,0 +1,223 @@
+Category,Item_Variant,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Week 14,Week 15,Week 16
+Chicken ,Chicken Cordon Bleu,0.87,0.83,1,0.51,0.49,1.04,0.5,1,0.89,1.18,1.18,0.54,0.63,0.52,0.58,0.49
+Chicken ,Crispy Chicken Melted Cheese,0.61,1.01,0.78,0.41,0.49,0.47,0.5,0.23,0.59,1.42,0.51,1.24,1.5,1.77,0.99,0.85
+Chicken ,Grilled Chicken,0.61,0.46,0.45,0.2,0,0.19,0.1,0.38,0.49,0.47,0.51,0.16,0.08,0.66,0.08,0.36
+Chocolate,Dark Chocolate Caramel,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07,0,0
+Chocolate,Dark Chocolate Hazelnut,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0.07,0.08,0.12
+Chocolate,Dark Chocolate Peppermint,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0.3,0.08,0
+Chocolate,Dark Chocolate Pure,0,0,0,0,0,0,0,0,0,0,0,0,0.24,0.07,0.33,0.12
+Chocolate,Dark Chocolate Tiramisu,0,0,0,0,0,0,0,0,0,0,0,0,0.16,0.15,0,0.12
+Chocolate,Dark Chocolate Vanilla,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07,0,0
+Chocolate,White Chocolate Caramel,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0.07,0,0
+Chocolate,White Chocolate Hazelnut,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14,0.16,0
+Chocolate,White Chocolate Peppermint,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17,0.12
+Chocolate,White Chocolate Pure,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0
+Chocolate,White Chocolate Tiramisu,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07,0,0
+Chocolate,White Chocolate Vanilla,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16,0
+Coffee,Americano,0.87,0.74,0.11,1.12,0.82,0.85,1,0.61,0.49,0.47,0.59,0.85,0.47,0.96,2.07,1.46
+Coffee,Avocado Coffee,0,0,0.22,0.2,0.25,0.57,0.4,0.08,0,0.32,0.17,0.39,0.32,0.3,0.17,0.12
+Coffee,Cafe Latte,1.13,1.2,1.11,0.61,1.89,1.13,1.9,0.38,0.79,0.95,0.59,1.01,0.32,0.74,0.58,0.49
+Coffee,Cappuccino,1.39,1.38,0.67,0.81,1.89,2.45,1.6,0.31,1.67,0.95,1.35,1.48,0.79,0.66,1.9,1.09
+Coffee,Cappucino Grass Jelly,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0
+Coffee,Caramel Machiato,0,0.83,0.56,0.61,0.9,0.75,0.9,0.23,0.3,0.71,0.84,0.85,0.32,0.37,0.25,0.49
+Coffee,Kopi Tradisional Original,0.96,0.64,0.78,0.71,0.99,1.32,0.5,0.46,1.08,0.79,0.76,1.4,0.47,0.15,0,0
+Coffee,Kopi Tradisional Spesial,0.26,0.37,0.89,0.3,0.66,0.38,0.6,0.38,0.39,0.63,0.08,0.23,0.39,0.52,0.17,0.49
+Coffee,Mocha Cookies Caramel,0.17,0.74,0.56,0.1,0,0,0.2,0.69,0.3,0.71,0.59,0.31,0.16,0.52,0.5,0.97
+Coffee,Mochaccino,0,0.64,0.11,0.1,0.08,0,0.3,0.38,0.3,0.16,0.34,0.39,0.08,0.15,0.33,0.49
+Coffee,Mojito Coffee,0.26,0.28,0.22,0,0.25,0.38,0.2,0.23,0.1,0.16,0,0.08,0.08,0.07,0.17,0.24
+Coffee,Vietnam Drip,0.78,0.92,1.34,0.81,1.56,1.13,1,0.92,0.89,1.18,1.1,1.94,1.42,0.89,1.32,1.58
+De kaas Deli,Baked Potato with Broccoli and Cheese Cup Cake Size,0,0,0.22296544,0,0,0,0,0,0,0,0,0,0,0,0,0
+De kaas Deli,Macaroni and Cheese,0,0,0.11148272,0,0,0,0,0,0,0,0,0,0,0,0,0
+De kaas Deli,Smoked Beef Baked Potato,0,0,0.11148272,0,0,0,0,0,0,0,0,0,0,0,0,0
+Extra,Es Batu,0,0,0,0,0,0,0,0,0,0,0.08,0.08,0,0.15,0,0
+Extra,Extra Cheese,0,0,0,0,0,0,0,0,0,0,0,0.08,0,0,0,0
+Extra,Extra Telur,0,0,0,0,0,0,0,0,0,0,0.08,0,0.24,0.22,0.74,0.36
+Extra,Nasi Putih,0,0,0,0,0,0,0,0,0.2,0.39,0.93,0.62,0.55,0.59,0.74,0.73
+Extra,Nasi Putih 1/2,0,0,0,0,0,0,0,0,0,0.16,0,0,0,0,0,0
+Ice Blended,Caramel Ice Blended,1.13,0.28,0.45,0.1,0.25,0.09,0,0,0.2,0,0.08,0.08,0.08,0.07,0,0.12
+Ice Blended,Choco Mint Blended,0.44,0.37,0.11,0.71,0.33,0.28,0.4,0.38,0.2,0.32,0.34,0.54,0.47,0.07,0.17,0.12
+Ice Blended,Choco Oreo Blended,0.87,1.01,0.67,0.91,1.15,0.47,0.3,0.23,0.1,0.16,0.25,0.39,0.71,0.3,0.25,0.12
+Ice Blended,Dark Chocolate Blended,0.26,0.28,0.45,0.2,0.33,0.19,0.4,0.84,0.1,0.16,0.08,0,0,0,0,0.24
+Ice Blended,Hazelnut Blended,0.61,0.46,0.22,0.41,0.25,0.47,0.3,0.15,0.1,0.08,0.25,0.54,0.32,0.15,0,0.24
+Ice Blended,Matcha Blended,0.26,0,0.11,0.1,0.25,0.28,0,0.08,0,0.08,0.25,0.39,0.47,0,0,0.24
+Ice Blended,Peppermint,0.44,0.18,0.11,0,0.16,0,0.3,0.15,0.1,0.08,0.08,0,0,0,0,0
+Ice Blended,Red Velvet Blended,0.96,0.64,0.67,0.2,0.41,0.09,0.4,0,0,0.08,0.34,0.31,0,0.07,0.17,0.12
+Ice Blended,Taro Blended,0.44,0.28,0.22,0.51,0.41,0,0.2,0.38,0.1,0,0.08,0.23,0.79,0.07,0.08,0.24
+Ice Blended,Tiramisu Blended,0.17,0.28,0.22,0.1,0,0.09,0.1,0.15,0.2,0.24,0.17,0.39,0.24,0.15,0.08,0
+Ice Blended,Vanilla Blended,0.52,0.64,0,0.1,0.16,0.09,0.4,0.08,0.2,0,0.42,0.08,0.08,0,0.08,0.12
+Ice Blended,Choco Banana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.66,0.36
+Indomie,Indomie Ala Eatopia,0,0,0,0,0,0,0,0,0,0,0,0,0.16,0.66,1.07,0.73
+Indomie,Indomie Kuah Susu,0.61,1.1,0.67,0.41,0.41,0.28,1,0.23,0.3,0.55,0.76,0.54,0.47,0.3,0.25,0.36
+Indomie,Indomie Original double,0,0,0.11,0.2,0.25,0.09,0.4,0.31,0.39,0.24,0.34,0.31,0.16,0.15,0.33,0
+Indomie,Indomie Original,0.78,1.56,2.01,1.32,1.48,1.23,1,0.92,3.25,2.92,3.13,1.01,1.5,1.77,1.07,1.33
+Indomie,Indomie Telur Keju,0.96,0.83,1,1.12,0.99,0.94,1,0.54,0.89,1.18,0.59,0.93,1.18,0.15,0.74,0.97
+Indomie,Indomie Telur Smoke Beef,1.22,1.29,1.78,1.52,1.32,0.66,1.6,0.31,0.99,1.58,1.44,1.09,1.58,1.18,0.91,0.85
+Indomie,Indomie Telur double,0,0.09,0,0.1,0.25,0.19,0.1,0.08,0,0.08,0.17,0.08,0.08,0.07,0.5,0
+Indomie,Indomie Telur,3.31,2.94,2.56,3.14,2.47,2.83,3.2,1.53,3.35,4.5,4.39,3.18,3.07,2.14,2.4,1.7
+Indomie,Korean Drama Noodle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0
+Indomie,Ramen,0.35,0.18,0.56,0.51,0.66,0.57,0.9,0.46,0.2,0.32,0.68,0.54,0.24,0.81,0.5,0.24
+Juice,Avocado Smoothies,0.44,0.74,0.89,0.3,0.25,0.28,0.3,0.69,0.49,1.11,1.35,0.39,1.34,0.81,2.15,1.09
+Juice,Avocado Coffee,0,0.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juice,Banana Juice,0,0,0,0,0,0,0,0,0,0,0,0,0,0.59,0.25,0.12
+Juice,Mango Smoothies,2.01,1.38,2.23,0.81,1.56,2.36,1,1.15,0.89,2.05,0.93,1.24,1.81,1.33,1.49,1.58
+Juice,Melon,0.35,0.74,0,0.51,0,0.19,0,0,0,0.16,0,0,0,0,0,0
+Juice,Mixed Juice,0.17,0.28,0.33,0.51,0.16,0.19,0.3,0.08,0.1,0.24,0.08,0.08,0.16,0.3,0.17,0
+Juice,Orange Smoothies,0.78,0.83,1,1.22,0.66,0.66,0.3,0.69,0.79,0.63,1.01,1.55,0.95,0.37,0.17,0.49
+Juice,Strawberry Smoothies,0.87,1.29,0.78,0.61,0.74,0.75,0.8,0.15,0.69,0.55,0.17,0,0.87,0.44,0.58,0.49
+Juice,Watermelon,0,0.37,0.33,0.3,0.49,0.19,0.1,0.23,0,0.16,0,0.08,0.16,0,0,0
+Juice,Kedondong Juice,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0.33,0
+Latte,Caramel Latte Iced,0.7,0.37,0.56,0.3,0.49,0.09,0.3,0.38,0.2,0.08,0.25,0,0,0.15,0,0
+Latte,Hazelnut Latte Iced,0.52,0.92,0.89,0.2,0.74,0.57,0.7,0.08,0.3,0.08,0.25,0.47,0.63,0.22,0.17,0.24
+Latte,Matcha Latte Iced,0.35,0.09,0.33,0.3,0.25,0.66,0.2,0.15,0.3,0.24,0.17,0.7,0.39,0.3,0.25,0.12
+Latte,Peppermint Latte Iced,0.17,0,0,0.1,0,0.38,0.3,0.08,0.1,0.08,0,0.08,0.24,0.15,0,0
+Latte,Red Velvet Latte,0.96,0.46,0.22,0.3,0.49,0.28,0.3,0.38,0.1,0.32,0,0.08,0.08,0.07,0,0
+Latte,Taro Latte Iced,0.17,0.09,0.33,0.1,0.08,0.19,0,0.08,0,0.16,0.25,0.16,0.08,0,0.08,0.12
+Latte,Tiramisu Latte Iced,0,0,0,0,0,0,0,0,0.1,0,0.08,0,0.08,0,0.08,0.12
+Latte,Vanilla Latte Iced,0.52,0.28,0.11,0.1,0.08,0.28,0.4,0.23,0.39,0.08,0.25,0.23,0.47,0,0,0.36
+Milkshake,Milkshake Chocolate,0.09,0.37,0.33,0.61,0.49,0.38,0.2,0.38,0.2,0.24,0.42,0.39,0.39,0.81,0.17,0.61
+Milkshake,Milkshake Matcha,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0.96,0.41,0.49
+Milkshake,Milkshake Strawberry,0,0,0,0,0,0,0,0,0,0,0,0,0,0.52,0.17,0
+Milkshake,Milkshake Vanilla,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0.52,0.33,0.36
+Milkshake,Strawberry Smoothies,0.26,0.09,0,0.2,0.16,0.09,0.2,0.38,0.2,0.47,0.08,0.16,0.08,0,0,0
+Milkshake,Vanilla Blended,0.26,0.18,0.45,0.61,0.74,0.19,0.7,0.15,0,0.63,0.42,0.16,0.32,0,0,0
+Nasi Goreng,Nasi Goreng Buntut,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0.74,0.61
+Nasi Goreng,Nasi Goreng Hongkong,4.18,4.88,3.57,3.96,3.45,2.73,3.4,2.92,4.14,4.34,4.65,4.58,3.86,3.77,3.06,2.43
+Nasi Goreng,Nasi Goreng Pattaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0
+Nasi Goreng,Nasi Goreng Teri Medan,0,0,0,0,0,0,0,0,0,0,0,0,2.21,2.88,3.47,4
+Nasi Goreng,Nasi Goreng Tradisional,2.88,2.48,3.34,3.04,3.54,2.26,3.2,2.76,2.96,3.32,3.72,3.49,3.62,3.18,2.23,2.43
+Non-Coffee,Banana Split,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22,0.08,0
+Non-Coffee,Bandrek,0,0,0,0,0,0,0.2,0,0.69,1.18,1.1,0.7,0.39,0.44,0.66,0.36
+Non-Coffee,Beauty on The Beach,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0.25,0.24
+Non-Coffee,Chocolate Cold,0,0,0,0,0,0.28,0.7,0.46,0.49,0.32,0.17,0.85,0.08,0,0,0
+Non-Coffee,Jeruk,0.52,0.64,0.89,1.22,0.58,0.47,0.6,0.54,0.49,0.63,0.76,0.62,0.39,1.33,0.83,0.24
+Non-Coffee,Matcha Thai Tea,0.87,0.64,0.67,0.61,0.41,0.38,0.4,0.46,0.99,0.08,0.51,0.47,0.32,0.3,0.17,0.61
+Non-Coffee,Pure chocolate dark,0,0,0,0,0,0,0,0,0,0,0,0,0.32,0,0,0
+Non-Coffee,Susu Jahe,0,0,0,0,0,0.75,0.5,0.77,0.99,0.79,1.01,0.93,1.1,1.18,0.91,0.36
+Non-Coffee,Taro Blended,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0
+Non-Coffee,Thai Tea,1.74,1.29,1.34,1.42,1.73,1.98,2.1,1.69,1.58,1.26,1.1,1.55,1.26,1.4,1.24,1.21
+Non-Coffee,Thai Tea GrassJelly,0,0,0,0,0,0,0,0,0,0,0,0,0,0.66,0,0.61
+Pasta,Aglio Olio,0.96,1.2,0.67,1.72,1.23,1.6,0.9,1.61,1.77,0.55,1.1,1.55,2.6,1.7,1.49,1.09
+Pasta,Bolognaise,1.13,1.2,0.56,1.01,0.41,1.23,0.6,0.92,0.59,1.34,1.94,1.16,1.1,0.52,0.58,0.61
+Pasta,Carbonara,1.74,1.93,1.11,1.42,1.23,2.07,0.7,1.3,2.27,1.74,1.69,1.71,2.36,1.62,1.24,1.58
+Rice Bowl,RB Chicken BBQ,1.57,1.2,1.67,1.42,0.99,1.13,1.3,0.69,1.58,1.58,1.18,1.01,1.65,0.37,0,0
+Rice Bowl,RB Chicken Blackpepper,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07,0,0
+Rice Bowl,RB Chicken Chops Sauce BBQ,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07,0,0.24
+Rice Bowl,RB Chicken Chops Sauce Blackpepper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+Rice Bowl,RB Chicken Chops Sauce Bolognaise,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0
+Rice Bowl,RB Chicken Chops Sauce Carbonara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0
+Rice Bowl,RB Chicken Chops Sauce Teriyaki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.41,0.24
+Rice Bowl,RB Chicken Katsu,1.48,1.66,1.56,1.12,1.73,1.51,1.7,5.37,1.28,1.58,2.36,2.56,1.1,0.44,0,0
+Rice Bowl,RB Chicken Katsu Sauce BBQ,0,0,0,0,0,0,0,0,0,0,0,0,0,0.66,0.74,0.73
+Rice Bowl,RB Chicken Katsu Sauce Blackpepper,0,0,0,0,0,0,0,0,0,0,0,0,0,0.66,0.41,0.49
+Rice Bowl,RB Chicken Katsu Sauce Bolognaise,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22,0.83,0.36
+Rice Bowl,RB Chicken Katsu Sauce Carbonara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17,0
+Rice Bowl,RB Chicken Katsu Sauce Teriyaki,0,0,0,0,0,0,0,0,0,0,0,0,0,0.52,0.5,0.36
+Rice Bowl,RB Chicken Teriyaki,1.31,0.92,2.23,1.32,0.58,1.41,1.2,1.61,1.87,2.84,1.52,1.32,1.73,0.3,0,0
+Rice Bowl,RB Chicken Wings Sauce BBQ,0,0,0,0,0,0,0,0,0,0,0,0,0,0.37,0,0.49
+Rice Bowl,RB Chicken Wings Sauce Blackpepper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.24
+Rice Bowl,RB Chicken Wings Sauce Bolognaise,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.24
+Rice Bowl,RB Chicken Wings Sauce Carbonara,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0
+Rice Bowl,RB Chicken Wings Sauce Teriyaki,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07,0,0.12
+Smoothies,Avocado Smoothies,0,0.09,0.11,0.2,0,0,0,0.08,0.3,0.24,0.17,0,0.08,0.07,0,0.24
+Smoothies,Banana Smoothies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0
+Smoothies,Mango Smoothies,0.7,0.55,0.33,0.41,0.49,0.38,0.1,0.08,0.2,0.16,0.17,0,0.32,0.15,0.41,0.36
+Smoothies,Melon,0,0.09,0,0.1,0.08,0,0,0,0.1,0,0,0,0,0,0,0
+Smoothies,Orange Smoothies,0,0.09,0,0,0.16,0,0,0.23,0.3,0.08,0.17,0,0.08,0.07,0.08,0.12
+Smoothies,Strawberry Smoothies,0.26,0.37,0.11,0.51,0.58,0.28,0.6,0,0.1,0.08,0,0,0.24,0.15,0.25,0.24
+Snack,Bakso Cuanki,0,0,0,0,0,0.75,1.6,0.46,1.18,0.95,0.76,1.48,0.16,0.37,0,0
+Snack,Chicken Wings,0.87,1.47,0.78,1.32,1.15,0.85,1.4,0.84,0.79,1.11,0.68,1.79,0.95,1.18,1.07,0.61
+Snack,Holiday Pancakes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17,0.49
+Snack,Onion Rings,0.78,0.46,0.67,1.01,0.66,0.57,0.7,0.77,0.69,0.63,0.84,0.7,1.1,1.18,1.07,1.09
+Snack,Pisang Cokelat Lumer,0,0.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snack,Rujak Cireng,0,0,0,0,0,0,0,0,0,0,0,0,0,0.96,0.58,1.33
+Snack,Sausage BBQ,0.09,0,0.22,0.2,0.99,0.57,0.1,0.23,0.59,0.32,0.25,0.23,0.16,1.03,0.58,0.73
+Snack,Siomay Eatopia,0,0,0,0,0.9,0.75,0.8,0.15,0,0,0,0.16,0.55,0,0,0
+Snack,Spring Roll,0.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snack,Sweet Home-Made Pancakes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17,0.12
+Snack,Tahu Isi Ala Eatopia,1.83,1.56,2.12,3.35,2.22,1.98,1.9,1.38,2.36,2.76,1.69,2.02,1.5,1.7,2.31,0.73
+Snack,Toast Ice Uncle Dim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0.12
+Snack,waffle ice cream,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+Snack,French Fries,5.32,5.52,5.02,4.16,5.43,6.22,3.9,3.15,5.02,4.34,4.65,5.51,5.52,4.8,5.87,4.13
+Snack,Pisang Bakar,1.05,0.92,0.56,0.71,1.07,0.75,0.4,0.69,1.08,0.79,0.68,1.09,0.79,1.55,0.74,1.09
+Snack,Pisang Goreng,2.7,3.22,2.9,1.52,2.8,2.26,2,1.69,1.18,2.05,1.44,2.17,3.31,1.99,1.32,0.73
+Snack,Ropang,3.75,1.38,2.56,2.13,1.56,1.51,1.8,2.07,1.77,1.18,1.35,1.4,1.58,1.99,1.57,0.97
+Sparkling Soda,Blue Ocean,0.7,0.28,0.56,0.3,0.16,0.38,0.4,0.31,0.39,0.08,0.42,0.16,0.08,0.22,0.33,0.12
+Sparkling Soda,Cola Float,0,0,0,0,0.16,0.28,0.5,0.08,0.1,0.16,0.17,0.16,0.24,0,0.33,0.24
+Sparkling Soda,Fruit Punch,0,0,0.11,0.2,0.25,0.19,0.2,0,0,0.08,0,0,0,0,0,0
+Sparkling Soda,Green Goblin,0,0,0,0,0,0,0,0,0,0,0,0,0.87,0.22,0.25,0.61
+Sparkling Soda,Lime Squash,0.26,0.37,0.45,0.91,0.41,0.57,0.3,0.15,0.1,0.16,0.08,0.31,0.55,0,0.17,0.24
+Sparkling Soda,Lychee Sparkling Soda,0.17,0.18,0.56,0.51,0.99,0.66,0.6,0.38,0.59,0.47,0.59,0.7,0.47,0.22,0,0.12
+Sparkling Soda,Mojito Sparkling Soda,0.61,0.55,0.56,0.61,0.49,0.66,0.5,0.23,1.08,0.24,0.34,0.78,0.16,0.07,0.25,0.24
+Sparkling Soda,Peach Sparkling Soda,0,0,0,0,0,0.09,0,0.08,0.2,0,0,0.08,0.08,0,0.08,0
+Sparkling Soda,Red and Blue Sparkling,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22,0.66,0.24
+Sparkling Soda,Soda Ceria,0,0.28,0.67,0.41,0.08,0.19,0.2,0.08,0.2,0,0.17,0.08,0.08,0,0,0.12
+Sparkling Soda,Soda Gembira,0,0,0,0,0.25,0.19,0.4,0.31,0.3,0.32,0.17,0.16,0.16,0,0,0
+Sparkling Soda,Sparkling Sunset,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0.15,0.17,0.61
+Sparkling Soda,Strawberry Smoothies,0.09,0.09,0.11,0.1,0,0.09,0.2,0.08,0,0,0,0,0,0,0,0
+Sparkling Soda,Strawberry Float,0,0,0,0,0.08,0.09,0.1,0.15,0,0,0.08,0,0,0,0,0
+Special Today,Beef Burger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17,0.12
+Special Today,Chicken Burger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.61
+Special Today,Ikan Goreng Sambal Mangga,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.41,0
+Special Today,Nasi Ayam Kremes,0,0,0.11,6.39,0.9,1.7,2.9,2.23,2.96,2.37,2.79,2.33,1.81,1.77,1.4,2.43
+Special Today,Nasi Ayam Kremes Eatopia Inc Air Mineral,2.44,1.66,2.56,0,0,0,0,0,0,0,0,0,0,0,0,0
+Special Today,Nasi Ayam Sambal Matah,0,0,0,0,0,0,0,0,0,0,0,0,0,2.22,2.23,3.16
+Special Today,Paket Nasi Ayam Kremes Eatopia Inc Air Mineral,0,0,0.45,2.33,2.3,0.47,0,0,0,0,0,0,0,0,0,0
+Special Today,PaketLunch RB Chicken BBQ,0,0,0,0,0,0,0,0,0,0.39,0.34,0,0,0,0,0
+Special Today,PaketLunch RB Chicken Chops,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0
+Special Today,PaketLunch RB Chicken Katsu,0,0,0,0,0,0,0,0,0,0.24,0.51,0,0.08,0.37,0,0
+Special Today,PaketLunch RB Chicken Wings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0
+Special Today,PaketLunch RB Teriyaki,0,0,0,0,0,0,0,0,0,0.32,0.25,0.08,0.08,0,0,0
+Tea,Ice Eatopia Tea,1.48,0.83,0.45,1.01,0.16,0.09,0.3,0.38,0.2,0.16,0.17,0.16,0.16,0,0,0
+Tea,Lemon Tea,1.74,1.93,2.01,2.03,2.22,2.35,1.4,0.99,0.88,1.82,0.93,1.63,0.71,1.11,0.82,0.97
+Tea,Lychee Tea,2.01,2.02,2.23,2.23,2.55,0.85,3.5,1.38,1.08,1.42,1.77,1.16,0.71,1.11,1.07,0.49
+Tea,Peach Tea,0.17,0.18,0.22,0.41,0.33,0.28,0.3,0.23,0.1,0.08,0.08,0,0,0.15,0.17,0
+Tea,Regular Tea,13.08,9.85,9.59,10.85,12.42,12.63,11.8,8.36,12.32,13.51,15.28,10.64,13.47,13.66,12.73,16.63
+Tea,Premium Tea,0.78,0.46,0.89,0.81,0.66,1.7,0.5,0.69,1.08,0.47,0.25,0.47,0.32,0.44,0.66,0.85
+Tea,Strawberry Tea,0,0.37,0.33,0,0.16,0.19,0,0.23,0.2,0.16,0.17,0.08,0.08,0,0,0.12
+Toko Bu Dewi,Air Mineral,6.54,8.1,9.36,7.3,7.81,9.9,9.9,9.59,9.75,7.66,7.85,7.3,8.2,8.2,9.26,9.47
+Toko Bu Dewi,Camel Putih,0.09,0,0,0,0.08,0.09,0,0,0,0.08,0,0,0.08,0,0,0.12
+Toko Bu Dewi,Chitato KRIPZ,0,0,0,0,0.08,0,0,0,0,0,0,0,0,0,0,0
+Toko Bu Dewi,Chitato Sapi Bumbu Bakar,0,0.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toko Bu Dewi,Chitato Sapi Panggang,0.09,0.09,0,0,0,0.28,0.1,0,0,0.08,0,0,0,0,0,0
+Toko Bu Dewi,Djarum Super,0.09,0,0.22,0.1,0,0,0.2,0.08,0.1,0,0,0.08,0.08,0.22,0.25,0
+Toko Bu Dewi,Dji Sam Soe,0.09,0,0,0.1,0,0.09,0.1,0,0,0,0,0,0,0,0,0
+Toko Bu Dewi,Dunhill Putih,0,0.09,0.11,0,0.25,0,0,0,0,0,0,0,0.08,0.15,0,0
+Toko Bu Dewi,Gudang Garam Filter,0.17,0.18,0.11,0.1,0.08,0,0.2,0,0,0.16,0,0.23,0.32,0.37,0,0.12
+Toko Bu Dewi,Happy Tos,0,0.09,0,0.1,0,0,0,0,0,0.08,0,0,0,0,0,0
+Toko Bu Dewi,Happy Tos Tortilla Chips,0,0,0,0,0,0,0,0.08,0.3,0.08,0.17,0.08,0,0,0,0
+Toko Bu Dewi,Kacang Atom Garuda,0,0,0,0,0.41,0.09,0.2,0.08,0.2,0.24,0.08,0.47,0.08,0.44,0.74,1.21
+Toko Bu Dewi,Kerupuk Kecil,0,0.09,0,0,0.25,0.09,0,0,0,0,0.08,0,0.16,0.15,0.83,0.85
+Toko Bu Dewi,Korek,0.09,0.09,0,0.1,0.25,0,0.4,0.31,0.2,0.16,0.08,0.23,0.16,0.07,0.25,0.12
+Toko Bu Dewi,Kusuka Keripik Emping Ori,0.09,0.18,0,0,0,0,0.3,0.08,0.1,0,0,0.16,0.32,0,0,0
+Toko Bu Dewi,Marlboro Merah,0.09,0.37,0.11,0,0.33,0.19,0.4,0.15,0.2,0,0.17,0,0,0.15,0.41,0.36
+Toko Bu Dewi,Marlboro Putih,0.26,0.18,0.22,0.2,0.16,0.09,0.2,0.38,0.2,0.08,0.08,0.23,0,0.3,0.33,0.12
+Toko Bu Dewi,Oishi Pillow Coklat,0,0.09,0,0,0.08,0,0,0.08,0,0.08,0,0,0,0,0,0
+Toko Bu Dewi,Oishi Sponge Coklat,0,0,0.11,0,0,0.09,0,0,0,0,0.08,0.08,0,0,0,0
+Toko Bu Dewi,Piattos Barbeque,0,0.18,0,0,0.08,0,0.1,0,0,0,0,0,0,0,0,0
+Toko Bu Dewi,Piattos Sapi Panggang,0.09,0.09,0,0,0,0,0,0.08,0,0,0,0,0,0,0,0
+Toko Bu Dewi,Qtela Singkong,0,0.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toko Bu Dewi,Sampoerna Mild,0.87,0.83,1,0.81,0.66,0.75,0.9,0.46,0.79,0.87,0.25,1.01,0.79,0.44,0.74,1.21
+Toko Bu Dewi,Sea Crunch,0,0,0,0,0,0,0.1,0.15,0.39,0.08,0.08,0.08,0,0,0,0
+Toko Bu Dewi,Smax Ring Cheese,0,0.09,0.33,0.3,0.08,0,0,0.08,0,0,0,0,0,0,0,0
+Toko Bu Dewi,Sosis Solo,0,0,0.89,0.71,0.16,0.38,0.5,0.08,0.2,0.39,0.84,0.54,0.32,0.3,0.17,0.12
+Toko Bu Dewi,Teh Pucuk,0,1.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toko Bu Dewi,Tortilla Chips Grilled Beef,0,0,0.11,0.1,0,0,0,0,0,0,0,0,0,0,0,0
+Toko Bu Dewi,Tortilla Chips Nacho Cheese,0.09,0,0,0.1,0,0.09,0.1,0.08,0,0,0,0,0.08,0,0.08,0
+Toko Bu Dewi,Tortilla Chips Roasted Corn,0,0.09,0,0,0,0,0.2,0,0.1,0,0,0,0,0,0,0
+Toko Bu Dewi,cheese stick,0,0.28,0.11,0.3,0.16,0.09,0.2,0.08,0.1,0,0,0,0.16,0.07,0.08,0
+Toko Bu Dewi,kacang medan,0,0.28,0.45,0.3,0.16,0.28,0.1,0.23,0.2,0.16,0.08,0,0,0,0,0
+Toko Bu Dewi,kerupuk putih,0,0.55,0.33,0.2,0.08,0.19,0.1,0,0,0,0,0,0,0,0,0
+Toko Bu Dewi,kerupuk udang,0,0.28,0.22,0.2,0.16,0.19,0.2,0,0,0.08,0,0,0,0,0,0
+Toko Bu Dewi,samosa,0,0,0,0,0.08,0,0,0,0.2,0.08,0.08,0.23,0.08,0,0,0
+Toko De kaas Deli,Baked Potato with Broccoli and Cheese Cup Cake Size,0,0,0,0.1,0,0.09,0.1,0,0,0,0,0,0,0,0,0
+Toko De kaas Deli,Macaroni and Cheese,0,0,0,0,0.08,0.09,0,0.08,0.1,0,0,0,0,0,0,0
+Toko De kaas Deli,Smoked Beef Baked Potato,0,0,0,0,0.08,0.09,0,0,0.1,0,0,0,0,0,0,0
+Toko De kaas Deli,Smoked Beef Mac and Cheese,0,0,0,0,0,0,0.1,0.08,0,0,0,0,0,0,0,0
+Toko Mas Gilang,Bubur Priyai,1.22,0.28,0.33,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toko Mas Gilang,Sale Pisang Kripik,0.17,0.18,0.33,0.1,0.16,0.28,0.1,0,0.3,0,0,0,0,0,0,0
+Uncategorized,Custom Amount,0.09,0.18,0.22,0.1,0.25,0.38,0.2,19.42,3.05,0.32,0.51,3.26,0.24,0,0.08,0.12
+Uncategorized,Eatopia Tea,0.26,0,0,0,0,0,0.1,0,0,0.16,0,0,0.08,0.07,0,0
+Uncategorized,Es Batu,0,0.18,0,0,0.08,0.09,0,0.15,0,0,0,0,0,0,0,0
+Uncategorized,Mixed Juice (2mix),0.09,0,0,0,0.08,0,0,0,0.1,0,0,0,0,0,0,0
+Uncategorized,Nasi Putih,0.26,0.18,0.56,0.41,0.08,0.47,0.2,0.46,0.3,0,0,0,0,0,0,0
+Uncategorized,Nasi Putih 1/2,0,0,0,0,0,0,0,0.08,0,0,0,0,0,0,0,0
